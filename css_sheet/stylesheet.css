@@ -1,0 +1,48 @@
+body {
+  color: red;
+  font-family: 'Roboto', sans-serif;
+  margin: 20px;
+  font-size: 18px;
+  background-image: url("../images/greysunset.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+h1 {
+  color: black;
+  font-size: 2.5em;
+  text-align: center;
+  margin: 20px;
+}
+h2, p {
+  font-style: italic;
+  font-size: 1.5em;
+}
+div {
+  min-height: 20vh;
+  Width: 100vw;
+}
+img{
+  display: flex;
+  padding: 20px;
+  border-color: black;
+  margin: 0 30px;
+  Width: 50vw;
+}
+a{
+  color: grey;
+}
+li {
+  font-size: 2em;
+}
+li#top {
+  color: orange;
+}
+li#middle {
+  color: yellow;
+}
+div.emphasise {
+  background-color: grey;
+
+}
